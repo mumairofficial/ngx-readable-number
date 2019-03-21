@@ -6,6 +6,11 @@
     "url": "https://github.com/mumairofficial"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mumairofficial/ngx-readable-number.git"
+  },
+  "keywords": ["angular", "angualr 7", "library", "readable number", "format numbers"],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
