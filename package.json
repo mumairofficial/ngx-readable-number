@@ -1,6 +1,6 @@
 {
   "name": "ngx-readable-number",
-  "version": "0.8.0",
+  "version": "0.9.4",
   "author": {
     "name": "mumair",
     "url": "https://github.com/mumairofficial"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:mumairofficial/ngx-readable-number.git"
   },
-  "keywords": ["angular", "angualr 7", "library", "readable number", "format numbers"],
+  "keywords": ["angular", "angular 7", "library", "readable number", "format numbers"],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -22,6 +22,7 @@
   },
   "private": false,
   "dependencies": {},
+  "peerDependencies": {},
   "devDependencies": {
     "@angular/common": "~7.2.0",
     "@angular/compiler": "~7.2.0",
